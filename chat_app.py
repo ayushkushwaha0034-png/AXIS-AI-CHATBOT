@@ -1,3 +1,4 @@
+
 import streamlit as st
 import google.generativeai as genai
 import os
@@ -71,6 +72,7 @@ if st.sidebar.button("🔄 Reset Conversation"):
 
 
 
-st.markdown('**Design And Developed by: Ayush Kushwah**'
+st.markdown('**Design And Developed by: Ayush Kushwah**')
+
 
 
